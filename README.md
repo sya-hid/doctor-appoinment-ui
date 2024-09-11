@@ -26,3 +26,4 @@
 <img src="assets/previews/schedule_page.png" alt="Schedule Page" width="200">
 <img src="assets/previews/detail_page.png" alt="Detail Page" width="200">
 </p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sya-hid.doctor-appointment-ui"/>  
